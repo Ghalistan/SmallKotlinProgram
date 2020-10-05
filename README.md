@@ -1,5 +1,5 @@
 # SmallKotlinProgram
-Answering some logical problems<br>
+Answering some logical problems, run <b>Main</b> function on `main.kt` for all answers.<br>
 
 # Soal 1
 Given a binary array, find the maximum number of consecutive 1s in this array. <br>
